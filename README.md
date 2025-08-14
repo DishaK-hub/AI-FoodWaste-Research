@@ -1,5 +1,5 @@
 # AI-FoodWaste-Research
-This repository contains all the materials, datasets, code, and resources used in our research paper: ["Exploring the Potential of AI-Driven Food Waste Management Strategies Used in the Hospitality Industry for Application in Household Settings."](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1429477/full?utm_source=email-sig&utm_medium=email&utm_content=100_VIEWS&utm_campaign=imp_mile_2024_fall_en_aut-ww)
+This repository contains all the materials, datasets, code, and resources used in my research paper: ["Exploring the Potential of AI-Driven Food Waste Management Strategies Used in the Hospitality Industry for Application in Household Settings."](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1429477/full?utm_source=email-sig&utm_medium=email&utm_content=100_VIEWS&utm_campaign=imp_mile_2024_fall_en_aut-ww)
 
 
 ### Overview
